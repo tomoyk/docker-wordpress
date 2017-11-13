@@ -27,3 +27,7 @@ WordPressのコンテナ:
 Composeファイルの書き方:
 
 [Compose ファイル・リファレンス — Docker-docs-ja 17.06.Beta ドキュメント](http://docs.docker.jp/compose/compose-file.html)
+
+docker-composeのvolume設定:
+
+[Docker Composeでボリューム作成 - Qiita](https://qiita.com/reflet/items/5c0a488494c7d6904084)
