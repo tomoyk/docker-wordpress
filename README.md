@@ -12,6 +12,8 @@ docker-compose.ymlのあるディレクトリに移動して以下を実行.
 
 止める時: `docker-compose down`
 
+消す時: `docker-compose rm`
+
 ## メモ
 
 WordPressのコンテナ:
